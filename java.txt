@@ -1,0 +1,224 @@
+If string is coming first and then + sysmnbol is there - next part automatically convert into String
+
+What is class 
+
+class is a combination of Method , Objects and Constructor
+
+ 
+
+if anything is missing we cant execute our pgm
+
+constructor name and class name should be same
+
+
+Object ?
+
+Replica of class or we can say blue print of class
+
+
+WebDriver driver = new ChromeDriver() //RunTime polymorphims (Method Overiding)
+
+MOL/OR/Inheritance /Class and Object
+
+
+350 Pounds 
+
+175+ 175 Pounds
+
+175 _ pounds
+
+
+175 - when you will get a job  
+
+RestAssured - 
+
+Java
+
+
+Xoom
+Transferwise
+remitly
+
+
+Inheritance :- Acquiring the properties from other class - that is called a inheritance 
+
+we can achieve with the help of extends keyword in java
+
+
+what is multilevel Inheritance ?
+
+Step by Step Inheritance or we can say generation by generation Transformation - called a Multilevel Inheritance
+
+
+Multiple Inheritance
+
+One class want to inherit more than one class at a Time - Multiple Inheritance 
+
+can we achieve multiple Inheritance in java ?
+No , we cant achieve at class level but we can achieve at Interface level 
+
+
+What is the major difference between Multiple And Multilevel 
+
+
+Single Inheritance -  Simple Inheritance extends Keyword
+
+Many To One Inheritance ?
+
+
+One To Many - Multiple Inheritance - We can achieve at Interface Level
+
+
+Method Over riding ?
+
+Same Methods and Same Signature/Parameter with different implementation and we can achieve with the help of Inheritance
+
+
+Assignment :- You have create a program for MNC Company where logo should be same but salary of employee will override according to reason
+
+
+Method Over loading - We will use same class , using Same Methods but different signature/Parameter/Data Type - no inheritance 
+
+
+int -- Whole number  --- medium range
+long -- whole number---  High Range
+short -- whole number------ Less than integer and higher than byte -- assignment
+byte -- whole number------- very less range -- assignment
+
+double-- decimal --- High Range
+float-- decimal----- Low range
+
+boolean-- true/false
+char---- 'a' ,'b'
+
+String :- String is not a Data type - it is a class - why  we will discuss in String topic
+
+but we will use like a data type - but it is not a data type
+
+
+Constructor :- 
+
+Constructor name and class name should be same 
+
+if user is not creating a constructor - jvm will create default or blank constructor
+
+if user is creating any constructor - jvm never create blank or default constructor
+
+constructor doesnt have any return type like void
+
+
+Polymorphism:- Multiple 
+
+same object behaving different different instance through out the execution of the pgm that is called a Polymorphism
+
+we have a two type of polymorphism
+
+run time polymorphism -- Method Over riding , Inheritance and Upcasting - all three thing is mandatory to achieve run time poly
+
+Upcasting means - trying to create a object of parent class and call child constructor - that is called a Upcasting
+
+compile time polymorphism - Method Over loading
+
+
+
+
+
+DragDrop
+Double Click
+Alert Handling
+Iframe
+DropDown
+AdvanceDropDown
+WindowHandling
+Screenshot
+
+
+Abstraction:-
+
+abstract is a keyword which we will use in class and methods
+
+if class is abstract - so we can declare abstract method and non abstract method as well
+
+abstract Method - Unimplemented method or we can no body or no implementation of that methods
+
+non abstract method - - It just like a method which we created before
+
+Abstract class is not a complete class - that why we cant create object of abstract class
+
+abstract class - we cant achieve 100% abstraction - why because they are containing non abstract method 
+
+
+Interface - Only Abstract Method
+
+Interface - we have to use abstract method only 
+
+no need to use abstract keyword inside into the interface - because by default it is abstract 
+
+they are not containing any body - all are unimplemented Method 
+
+class will implements interface - we have to use implements keyword to implement any interface
+
+class- class - Extends
+Interface - Interface - extends
+
+class - interface - implements
+
+Nested Concept
+
+class - class  - True
+Interface - Interface- true
+Class- Interface--- true
+Interface - Class -true
+
+
+- if method is static no need to create Object - we can call method with the help of Classname.MethodName 
+
+static can be a Method
+Static can be a Variable
+Static can be a nested class -
+
+static can be a Block 
+
+
+
+stack     heap                       ClassMamory
+ 
+color    heap                         static color=heap
+
+s        StaticVariableandmethod
+
+
+
+String is mutable or immutable and why?
+
+
+
+Exception Handling :- 
+
+
+final can be a method -- we cant override
+final can be class ---- we cant inherited
+final can be a variable -- we cant reinitialized
+
+
+
+
+Private protected default and public
+
+
+Super can be a Method
+Super can be a Variable
+super can be a constructor 
+
+Super- Calling Parent class, we will use super with the help of extends keyword (ref: super concept(package), SuperVariableMethod(class)
+// Add super to the method or variable of the child class(this child class already extends the parent) to access the parent class
+
+
+
+This - Current
+
+
+this will use for variable method and constructor  
+
+
+
